@@ -1,0 +1,1 @@
+> get the favicons url from any website
