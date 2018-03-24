@@ -1,8 +1,5 @@
 > get the favicons url from any website
 
-
-> get the favicons url from any website
-
 # Install 
 
 ```bash
