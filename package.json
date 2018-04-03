@@ -1,6 +1,6 @@
 {
   "name": "get-website-favicon",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "get the favicons url from any website",
   "main": "index.js",
   "scripts": {
