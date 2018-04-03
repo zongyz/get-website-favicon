@@ -1,6 +1,6 @@
 {
   "name": "get-website-favicon",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "get the favicons url from any website",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "cheerio": "^1.0.0-rc.2"
+    "cheerio": "^1.0.0-rc.2",
+    "file-type": "^7.6.0"
   }
 }
