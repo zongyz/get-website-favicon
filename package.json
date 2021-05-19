@@ -12,12 +12,12 @@
   "author": "pigz",
   "license": "MIT",
   "devDependencies": {
-    "chai": "^4.1.2",
-    "mocha": "^5.0.4"
+    "chai": "^4.3.4",
+    "mocha": "^8.4.0"
   },
   "dependencies": {
-    "axios": "^0.18.0",
-    "cheerio": "^1.0.0-rc.2",
-    "file-type": "^7.6.0"
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.9",
+    "file-type": "^16.4.0"
   }
 }
